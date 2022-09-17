@@ -56,8 +56,8 @@
 			nextEl: '.swiper-button-next',
 			prevEl: '.swiper-button-prev',
 		},
-        spaceBetween: 30,
-        slidesPerView: 5,
+        spaceBetween: 25,
+        slidesPerView: 6,
 		breakpoints: {
             // when window is <= 516px
             516: {
