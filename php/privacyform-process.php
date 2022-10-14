@@ -1,4 +1,5 @@
 <?php
+echo "Hello world!";
 $errorMSG = "";
 
 if (empty($_POST["name"])) {
